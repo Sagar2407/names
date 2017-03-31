@@ -9,7 +9,7 @@
 export default [
     {
         id: 0,
-        name: 'Aria',
+        name: 'Ara',
         sex: 'girl'
     }, {
         id: 1,
